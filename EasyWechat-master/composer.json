@@ -1,0 +1,24 @@
+{
+    "name": "wechat/thinkphp",
+    "description": "testEasyWechat",
+    "type": "framework",
+    "keywords": ["framework","thinkphp","wechat"],
+    "homepage": "http://blog.zhangxiufeng.cn/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangxiufeng",
+            "email": "15011211389@163.com"
+        }
+    ],
+    "require": {
+        "overtrue/wechat": "~3.1"
+    },
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
